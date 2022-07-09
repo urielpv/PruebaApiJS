@@ -8,6 +8,7 @@ const defensa=document.getElementById('defensa');
 const raresa=document.getElementById('raresa');
 const atributo=document.getElementById('atributo');
 const arquetipo=document.getElementById('arquetipo');
+const imagen=document.getElementById('imagen');
 
 
 const callAPI=()=>{
